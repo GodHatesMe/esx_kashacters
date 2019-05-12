@@ -1,5 +1,5 @@
 # esx_kashacters
-This is a 3 character selection version i edit to help with the people that were getting the black screen from the first character slot 
+This is a 3 character selection version i edited.  
 
 I did not create this, i only edited. The main creators are KASH AND Onno204.
 
