@@ -10,3 +10,4 @@ if you havent imnported the sql file in your database before make sure you do th
 1. Download this file esx_kashacters
 2. Put it into your resources/esx folder
 3. Add "start esx_kashacters" to your config.cfg
+4. Add the sql file toyour database
